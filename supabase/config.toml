@@ -1,0 +1,7 @@
+project_id = "djqvetlxnwbarhaluxod"
+
+[functions.generate-poetry]
+verify_jwt = false
+
+[functions.chat]
+verify_jwt = false
